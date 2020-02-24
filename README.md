@@ -1,3 +1,3 @@
 # LabZero
-Tumatauenga Dixon
-25/02/20
+## Tumatauenga Dixon
+### 25/02/20 - Tuesday
